@@ -1,0 +1,45 @@
+.a{
+    color: white;
+    text-decoration: none;
+}
+.a:hover{
+    text-decoration: underline;
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: gray;
+}
+#A{
+    border: 1px solid gray;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+#A:hover{
+    border: 2px solid black;
+    outline: 1px solid white;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+ 
+}
+.B{
+    text-align: center;
+
+    
+}
+img{
+    height: 300px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
